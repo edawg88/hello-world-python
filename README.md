@@ -4,11 +4,13 @@ A simple Python "Hello World" script demonstrating basic Python programming conc
 
 ## Description
 
-This project contains a basic Python script that:
-- Prints a personalized greeting
-- Demonstrates Python lists and loops
-- Shows basic string formatting
-- Includes proper Python documentation
+This project contains an interactive Python script that:
+- Prompts for user input and prints a personalized greeting
+- Demonstrates Python lists, loops, and exception handling
+- Shows advanced string formatting with emojis
+- Displays current Python version information
+- Calculates and shows Python's age since 1991
+- Includes proper Python documentation and error handling
 
 ## How to Run
 
